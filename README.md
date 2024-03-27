@@ -1,2 +1,2 @@
 # bookbot
-Build a Bookbot project on boot.dev
+BookBot is a guided project on boot.dev
